@@ -1,0 +1,3 @@
+﻿  oplab2.cpp
+C:\Users\Taras\source\repos\AlgGraph\oplab2\oplab2\oplab2.cpp(22,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  oplab2.vcxproj -> C:\Users\Taras\source\repos\AlgGraph\oplab2\x64\Debug\oplab2.exe
